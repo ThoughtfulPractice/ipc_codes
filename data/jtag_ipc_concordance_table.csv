@@ -1,0 +1,251 @@
+technology_area_number,technology,technology_subarea_number,technology_subarea,IPC_code_subclass,IPC_code_suffix
+1,High speed network,1A,Digital communication technique,H03K,
+1,High speed network,1A,Digital communication technique,H03L,
+1,High speed network,1A,Digital communication technique,H03M,
+1,High speed network,1A,Digital communication technique,H04B,0169
+1,High speed network,1A,Digital communication technique,H04B,0170
+1,High speed network,1A,Digital communication technique,H04B,0171
+1,High speed network,1A,Digital communication technique,H04J,
+1,High speed network,1A,Digital communication technique,H04L,
+1,High speed network,1B,"Exchange, selecting",H04M,03
+1,High speed network,1B,"Exchange, selecting",H04M,05
+1,High speed network,1B,"Exchange, selecting",H04M,07
+1,High speed network,1B,"Exchange, selecting",H04M,09
+1,High speed network,1B,"Exchange, selecting",H04M,11
+1,High speed network,1B,"Exchange, selecting",H04M,13
+1,High speed network,1B,"Exchange, selecting",H04M,19
+1,High speed network,1B,"Exchange, selecting",H04M,99
+1,High speed network,1B,"Exchange, selecting",H04Q,
+1,High speed network,1C,Others,H04B,010
+1,High speed network,1C,Others,H04B,011
+1,High speed network,1C,Others,H04B,012
+1,High speed network,1C,Others,H04B,013
+1,High speed network,1C,Others,H04B,014
+1,High speed network,1C,Others,H04B,015
+1,High speed network,1C,Others,H04B,0160
+1,High speed network,1C,Others,H04B,0162
+1,High speed network,1C,Others,H04B,0164
+1,High speed network,1C,Others,H04B,0166
+1,High speed network,1C,Others,H04B,0168
+1,High speed network,1C,Others,H04B,0172
+1,High speed network,1C,Others,H04B,0174
+1,High speed network,1C,Others,H04B,0176
+1,High speed network,1C,Others,H04B,03
+1,High speed network,1C,Others,H04B,05
+1,High speed network,1C,Others,H04B,07
+1,High speed network,1C,Others,H04B,09
+1,High speed network,1C,Others,H04B,11
+1,High speed network,1C,Others,H04B,13
+1,High speed network,1C,Others,H04B,15
+1,High speed network,1C,Others,H04B,17
+1,High speed network,1C,Others,H04H,
+2,Mobile communication,2A,Mobile communication,H04B,07
+2,Mobile communication,2A,Mobile communication,H04W,
+3,Security,3A,"Cyphering, authentication",G06F,12
+3,Security,3A,"Cyphering, authentication",G06F,14
+3,Security,3A,"Cyphering, authentication",G06F,21
+3,Security,3A,"Cyphering, authentication",G09C,
+3,Security,3A,"Cyphering, authentication",G11C,08
+3,Security,3A,"Cyphering, authentication",G11C,20
+3,Security,3A,"Cyphering, authentication",H04K,
+3,Security,3A,"Cyphering, authentication",H04L,09
+3,Security,3A,"Cyphering, authentication",H04M,01660
+3,Security,3A,"Cyphering, authentication",H04M,01663
+3,Security,3A,"Cyphering, authentication",H04M,01665
+3,Security,3A,"Cyphering, authentication",H04M,016670
+3,Security,3A,"Cyphering, authentication",H04M,016673
+3,Security,3A,"Cyphering, authentication",H04M,016675
+3,Security,3A,"Cyphering, authentication",H04M,0168
+3,Security,3A,"Cyphering, authentication",H04M,0170
+3,Security,3A,"Cyphering, authentication",H04M,01727
+3,Security,3A,"Cyphering, authentication",H04N,07167
+3,Security,3A,"Cyphering, authentication",H04N,07169
+3,Security,3A,"Cyphering, authentication",H04N,07171
+3,Security,3A,"Cyphering, authentication",H04W,12
+3,Security,3B,Electronic payment,G06Q,20
+3,Security,3B,Electronic payment,G07F,0708
+3,Security,3B,Electronic payment,G07F,0710
+3,Security,3B,Electronic payment,G07F,0712
+3,Security,3B,Electronic payment,G07G,0112
+3,Security,3B,Electronic payment,G07G,0114
+3,Security,3B,Electronic payment,H04L,1214
+3,Security,3B,Electronic payment,H04W,0424
+4,Sensor and device network,4A,Sensor network,G08B,0108
+4,Sensor and device network,4A,Sensor network,G08B,0310
+4,Sensor and device network,4A,Sensor network,G08B,0522
+4,Sensor and device network,4A,Sensor network,G08B,0524
+4,Sensor and device network,4A,Sensor network,G08B,0526
+4,Sensor and device network,4A,Sensor network,G08B,0528
+4,Sensor and device network,4A,Sensor network,G08B,0530
+4,Sensor and device network,4A,Sensor network,G08B,0532
+4,Sensor and device network,4A,Sensor network,G08B,0706
+4,Sensor and device network,4A,Sensor network,G08B,1318
+4,Sensor and device network,4A,Sensor network,G08B,13190
+4,Sensor and device network,4A,Sensor network,G08B,13191
+4,Sensor and device network,4A,Sensor network,G08B,13192
+4,Sensor and device network,4A,Sensor network,G08B,13193
+4,Sensor and device network,4A,Sensor network,G08B,13194
+4,Sensor and device network,4A,Sensor network,G08B,13196
+4,Sensor and device network,4A,Sensor network,G08B,1322
+4,Sensor and device network,4A,Sensor network,G08B,1324
+4,Sensor and device network,4A,Sensor network,G08B,1326
+4,Sensor and device network,4A,Sensor network,G08B,25
+4,Sensor and device network,4A,Sensor network,G08B,26
+4,Sensor and device network,4A,Sensor network,G08B,27
+4,Sensor and device network,4A,Sensor network,G08C,
+4,Sensor and device network,4A,Sensor network,G08G,0101
+4,Sensor and device network,4A,Sensor network,G08G,0102
+4,Sensor and device network,4A,Sensor network,G08G,0104
+4,Sensor and device network,4A,Sensor network,G08G,01065
+4,Sensor and device network,4A,Sensor network,G06F,1740
+4,Sensor and device network,4A,Sensor network,H04W,8418
+4,Sensor and device network,4B,Electronic tag,H04B,0159
+4,Sensor and device network,4B,Electronic tag,H04B,05
+4,Sensor and device network,4B,Electronic tag,G01S,1374
+4,Sensor and device network,4B,Electronic tag,G01S,1375
+4,Sensor and device network,4B,Electronic tag,G01S,1376
+4,Sensor and device network,4B,Electronic tag,G01S,1377
+4,Sensor and device network,4B,Electronic tag,G01S,1378
+4,Sensor and device network,4B,Electronic tag,G01S,1379
+4,Sensor and device network,4B,Electronic tag,G01S,1382
+4,Sensor and device network,4B,Electronic tag,G01S,1384
+4,Sensor and device network,4B,Electronic tag,G01V,03
+4,Sensor and device network,4B,Electronic tag,G01V,15
+4,Sensor and device network,4C,Others,H01V,15
+5,High speed computing,5A,High speed computing,G06F,05
+5,High speed computing,5A,High speed computing,G06F,07
+5,High speed computing,5A,High speed computing,G06F,09
+5,High speed computing,5A,High speed computing,G06F,11
+5,High speed computing,5A,High speed computing,G06F,13
+5,High speed computing,5A,High speed computing,G06F,1500
+5,High speed computing,5A,High speed computing,G06F,1516
+5,High speed computing,5A,High speed computing,G06F,15170
+5,High speed computing,5A,High speed computing,G06F,15173
+5,High speed computing,5A,High speed computing,G06F,15177
+5,High speed computing,5A,High speed computing,G06F,1518
+5,High speed computing,5A,High speed computing,G06F,1576
+5,High speed computing,5A,High speed computing,G06F,1578
+5,High speed computing,5A,High speed computing,G06F,1580
+5,High speed computing,5A,High speed computing,G06F,1582
+6,Large-capacity and high speed storage,6A,Large-capacity and high speed storage,G06F,0306
+6,Large-capacity and high speed storage,6A,Large-capacity and high speed storage,G06F,0308
+6,Large-capacity and high speed storage,6A,Large-capacity and high speed storage,G06F,12
+6,Large-capacity and high speed storage,6A,Large-capacity and high speed storage,G06K,01
+6,Large-capacity and high speed storage,6A,Large-capacity and high speed storage,G06K,03
+6,Large-capacity and high speed storage,6A,Large-capacity and high speed storage,G06K,05
+6,Large-capacity and high speed storage,6A,Large-capacity and high speed storage,G06K,07
+6,Large-capacity and high speed storage,6A,Large-capacity and high speed storage,G06K,13
+6,Large-capacity and high speed storage,6A,Large-capacity and high speed storage,G11B,
+6,Large-capacity and high speed storage,6A,Large-capacity and high speed storage,G11C,
+6,Large-capacity and high speed storage,6A,Large-capacity and high speed storage,H04N,0578
+6,Large-capacity and high speed storage,6A,Large-capacity and high speed storage,H04N,058
+6,Large-capacity and high speed storage,6A,Large-capacity and high speed storage,H04N,0590
+7,Large-capacity information analysis,7A,Database,G06F,1730
+7,Large-capacity information analysis,7A,Database,G06F,1740
+7,Large-capacity information analysis,7B,"Data analysis, simulation, management",G06F,1700
+7,Large-capacity information analysis,7B,"Data analysis, simulation, management",G06F,171
+7,Large-capacity information analysis,7B,"Data analysis, simulation, management",G06F,1750
+7,Large-capacity information analysis,7B,"Data analysis, simulation, management",G06F,19
+7,Large-capacity information analysis,7B,"Data analysis, simulation, management",G06Q,10
+7,Large-capacity information analysis,7B,"Data analysis, simulation, management",G06Q,30
+7,Large-capacity information analysis,7B,"Data analysis, simulation, management",G06Q,40
+7,Large-capacity information analysis,7B,"Data analysis, simulation, management",G06Q,50
+7,Large-capacity information analysis,7B,"Data analysis, simulation, management",G06Q,90
+7,Large-capacity information analysis,7B,"Data analysis, simulation, management",G06Q,99
+7,Large-capacity information analysis,7B,"Data analysis, simulation, management",G08G,
+8,Cognition and meaning understanding,8A,Cognition and meaning understanding,G06F,1720
+8,Cognition and meaning understanding,8A,Cognition and meaning understanding,G06F,1722
+8,Cognition and meaning understanding,8A,Cognition and meaning understanding,G06F,1724
+8,Cognition and meaning understanding,8A,Cognition and meaning understanding,G06F,1726
+8,Cognition and meaning understanding,8A,Cognition and meaning understanding,G06F,1728
+8,Cognition and meaning understanding,8A,Cognition and meaning understanding,G06K,09
+8,Cognition and meaning understanding,8A,Cognition and meaning understanding,G06T,07
+8,Cognition and meaning understanding,8A,Cognition and meaning understanding,G10L,13027
+8,Cognition and meaning understanding,8A,Cognition and meaning understanding,G10L,15
+8,Cognition and meaning understanding,8A,Cognition and meaning understanding,G10L,17
+8,Cognition and meaning understanding,8A,Cognition and meaning understanding,G10L,2563
+8,Cognition and meaning understanding,8A,Cognition and meaning understanding,G10L,2566
+8,Cognition and meaning understanding,8A,Cognition and meaning understanding,G06F,1518
+9,Human-interface,9A,Human-interface,H04M,01
+9,Human-interface,9A,Human-interface,G06F,0301
+9,Human-interface,9A,Human-interface,G06F,0302
+9,Human-interface,9A,Human-interface,G06F,0303
+9,Human-interface,9A,Human-interface,G06F,0304
+9,Human-interface,9A,Human-interface,G06F,0314
+9,Human-interface,9A,Human-interface,G06F,0315
+9,Human-interface,9A,Human-interface,G06F,0316
+9,Human-interface,9A,Human-interface,G06K,11
+9,Human-interface,9A,Human-interface,G06T,1180
+9,Human-interface,9A,Human-interface,G08G,010962
+9,Human-interface,9A,Human-interface,G08G,010963
+9,Human-interface,9A,Human-interface,G08G,010965
+9,Human-interface,9A,Human-interface,G08G,010967
+9,Human-interface,9A,Human-interface,G08G,010968
+9,Human-interface,9A,Human-interface,G08G,010969
+9,Human-interface,9A,Human-interface,G09B,05
+9,Human-interface,9A,Human-interface,G09B,07
+9,Human-interface,9A,Human-interface,G09B,09
+9,Human-interface,9A,Human-interface,G06F,1750
+9,Human-interface,9A,Human-interface,G06K,09
+9,Human-interface,9A,Human-interface,G06T,11
+9,Human-interface,9A,Human-interface,G06T,13
+9,Human-interface,9A,Human-interface,G06T,15
+9,Human-interface,9A,Human-interface,G06T,17
+9,Human-interface,9A,Human-interface,G06T,19
+10,Imaging and sound technology,10A,Imaging technique,H04N,
+10,Imaging and sound technology,10A,Imaging technique,G06T,
+10,Imaging and sound technology,10A,Imaging technique,G09G,
+10,Imaging and sound technology,10B,Sound technique,H04R,
+10,Imaging and sound technology,10B,Sound technique,H04S,
+10,Imaging and sound technology,10B,Sound technique,G10L,
+11,Information comunication device,11A,Electronic circuit,H03B,
+11,Information comunication device,11A,Electronic circuit,H03C,
+11,Information comunication device,11A,Electronic circuit,H03D,
+11,Information comunication device,11A,Electronic circuit,H03F,
+11,Information comunication device,11A,Electronic circuit,H03G,
+11,Information comunication device,11A,Electronic circuit,H03H,
+11,Information comunication device,11A,Electronic circuit,H03J,
+11,Information comunication device,11B,Cable and conductor,H01B,11
+11,Information comunication device,11C,Semiconductor,H01L,29
+11,Information comunication device,11C,Semiconductor,H01L,31
+11,Information comunication device,11C,Semiconductor,H01L,33
+11,Information comunication device,11C,Semiconductor,H01L,21
+11,Information comunication device,11C,Semiconductor,H01L,25
+11,Information comunication device,11C,Semiconductor,H01L,27
+11,Information comunication device,11C,Semiconductor,H01L,43
+11,Information comunication device,11C,Semiconductor,H01L,45
+11,Information comunication device,11C,Semiconductor,H01L,47
+11,Information comunication device,11C,Semiconductor,H01L,49
+11,Information comunication device,11C,Semiconductor,H01L,51
+11,Information comunication device,11D,Optic device,G02B,06
+11,Information comunication device,11D,Optic device,G02F,
+11,Information comunication device,11D,Optic device,H01S,05
+11,Information comunication device,11E,Others,B81B,0702
+11,Information comunication device,11E,Others,B82Y,10
+11,Information comunication device,11E,Others,H01P,
+11,Information comunication device,11E,Others,H01Q,
+12,Electronic measurement,12A,Electronic measurement,G01S,
+12,Electronic measurement,12A,Electronic measurement,G01V,03
+12,Electronic measurement,12A,Electronic measurement,G01V,08
+12,Electronic measurement,12A,Electronic measurement,G01V,15
+13,Others,13A,Computer input-output,G06F,0300
+13,Others,13A,Computer input-output,G06F,0305
+13,Others,13A,Computer input-output,G06F,0309
+13,Others,13A,Computer input-output,G06F,0312
+13,Others,13A,Computer input-output,G06F,0313
+13,Others,13A,Computer input-output,G06F,0318
+13,Others,13B,Other related technique,G06E,
+13,Others,13B,Other related technique,G06F,01
+13,Others,13B,Other related technique,G06F,1502
+13,Others,13B,Other related technique,G06F,1504
+13,Others,13B,Other related technique,G06F,1508
+13,Others,13B,Other related technique,G06F,1510
+13,Others,13B,Other related technique,G06F,1512
+13,Others,13B,Other related technique,G06F,1514
+13,Others,13B,Other related technique,G06G,07
+13,Others,13B,Other related technique,G06J,
+13,Others,13B,Other related technique,G06K,15
+13,Others,13B,Other related technique,G06K,17
+13,Others,13B,Other related technique,G06N,
+13,Others,13B,Other related technique,H04M,15
+13,Others,13B,Other related technique,H04M,17

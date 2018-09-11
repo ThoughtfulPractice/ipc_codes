@@ -1,0 +1,42 @@
+Field_number,Field_en,IPC_code_subclass,IPC_code_suffix
+1,Internet of Things,H04L,2908
+1,Internet of Things,H04L,1228
+1,Internet of Things,H04L,2906
+1,Internet of Things,G06F,1516
+1,Internet of Things,G05B,19418
+1,Internet of Things,H04W,8418
+1,Internet of Things,H04W,04
+1,Internet of Things,G08C,1702
+1,Internet of Things,H04W,7204
+1,Internet of Things,H04B,0726
+1,Internet of Things,H04L,67
+2,Big Data & Analytics,G06F,1730
+2,Big Data & Analytics,G06F,07
+2,Big Data & Analytics,G06F,1516
+2,Big Data & Analytics,G06F,1700
+2,Big Data & Analytics,H04L,2908
+2,Big Data & Analytics,G06Q,10
+2,Big Data & Analytics,G06F,1750
+2,Big Data & Analytics,G06F,12
+2,Big Data & Analytics,G06F,19
+2,Big Data & Analytics,G06F,15173
+2,Big Data & Analytics,G06F,
+2,Big Data & Analytics,G06K,
+2,Big Data & Analytics,G06N,
+3,Cybersecurity,G06F,21
+3,Cybersecurity,G06F,09
+3,Cybersecurity,H04L,2906
+3,Cybersecurity,H04L,63
+3,Cybersecurity,H04L,12
+3,Cybersecurity,H04W,1214
+3,Cybersecurity,G07F,0708
+3,Cybersecurity,G07F,0710
+3,Cybersecurity,G07F,0712
+3,Cybersecurity,G06F,13362
+3,Cybersecurity,G06Q,2040
+3,Cybersecurity,G06K,09
+3,Cybersecurity,H05K,09
+3,Cybersecurity,G09C,
+3,Cybersecurity,G06N,
+,,,
+,,,

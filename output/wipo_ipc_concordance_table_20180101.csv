@@ -1,0 +1,762 @@
+Field_number,Sector_en,Field_en,IPC_code,Updated_on,Remark,IPC_code_subclass,IPC_code_suffix,regex_string
+1,Electrical engineering,"Electrical machinery, apparatus, energy",F21H%,,,F21H,,F21H\d\d\d+
+1,Electrical engineering,"Electrical machinery, apparatus, energy",F21K%,,,F21K,,F21K\d\d\d+
+1,Electrical engineering,"Electrical machinery, apparatus, energy",F21L%,,,F21L,,F21L\d\d\d+
+1,Electrical engineering,"Electrical machinery, apparatus, energy",F21S%,,,F21S,,F21S\d\d\d+
+1,Electrical engineering,"Electrical machinery, apparatus, energy",F21V%,,,F21V,,F21V\d\d\d+
+1,Electrical engineering,"Electrical machinery, apparatus, energy",F21W%,,,F21W,,F21W\d\d\d+
+1,Electrical engineering,"Electrical machinery, apparatus, energy",F21Y%,,,F21Y,,F21Y\d\d\d+
+1,Electrical engineering,"Electrical machinery, apparatus, energy",H01B%,,,H01B,,H01B\d\d\d+
+1,Electrical engineering,"Electrical machinery, apparatus, energy",H01C%,,,H01C,,H01C\d\d\d+
+1,Electrical engineering,"Electrical machinery, apparatus, energy",H01F%,,,H01F,,H01F\d\d\d+
+1,Electrical engineering,"Electrical machinery, apparatus, energy",H01G%,,,H01G,,H01G\d\d\d+
+1,Electrical engineering,"Electrical machinery, apparatus, energy",H01H%,,,H01H,,H01H\d\d\d+
+1,Electrical engineering,"Electrical machinery, apparatus, energy",H01J%,,,H01J,,H01J\d\d\d+
+1,Electrical engineering,"Electrical machinery, apparatus, energy",H01K%,,,H01K,,H01K\d\d\d+
+1,Electrical engineering,"Electrical machinery, apparatus, energy",H01M%,,,H01M,,H01M\d\d\d+
+1,Electrical engineering,"Electrical machinery, apparatus, energy",H01R%,,,H01R,,H01R\d\d\d+
+1,Electrical engineering,"Electrical machinery, apparatus, energy",H01T%,,,H01T,,H01T\d\d\d+
+1,Electrical engineering,"Electrical machinery, apparatus, energy",H02B%,,,H02B,,H02B\d\d\d+
+1,Electrical engineering,"Electrical machinery, apparatus, energy",H02G%,,,H02G,,H02G\d\d\d+
+1,Electrical engineering,"Electrical machinery, apparatus, energy",H02H%,,,H02H,,H02H\d\d\d+
+1,Electrical engineering,"Electrical machinery, apparatus, energy",H02J%,,,H02J,,H02J\d\d\d+
+1,Electrical engineering,"Electrical machinery, apparatus, energy",H02K%,,,H02K,,H02K\d\d\d+
+1,Electrical engineering,"Electrical machinery, apparatus, energy",H02M%,,,H02M,,H02M\d\d\d+
+1,Electrical engineering,"Electrical machinery, apparatus, energy",H02N%,,,H02N,,H02N\d\d\d+
+1,Electrical engineering,"Electrical machinery, apparatus, energy",H02P%,,,H02P,,H02P\d\d\d+
+1,Electrical engineering,"Electrical machinery, apparatus, energy",H02S%,"June 10, 2014",,H02S,,H02S\d\d\d+
+1,Electrical engineering,"Electrical machinery, apparatus, energy",H05B%,,,H05B,,H05B\d\d\d+
+1,Electrical engineering,"Electrical machinery, apparatus, energy",H05C%,,,H05C,,H05C\d\d\d+
+1,Electrical engineering,"Electrical machinery, apparatus, energy",H05F%,,,H05F,,H05F\d\d\d+
+1,Electrical engineering,"Electrical machinery, apparatus, energy",H99Z%,,,H99Z,,H99Z\d\d\d+
+2,Electrical engineering,Audio-visual technology,G09F%,,,G09F,,G09F\d\d\d+
+2,Electrical engineering,Audio-visual technology,G09G%,,,G09G,,G09G\d\d\d+
+2,Electrical engineering,Audio-visual technology,G11B%,,,G11B,,G11B\d\d\d+
+2,Electrical engineering,Audio-visual technology,H04N   3%,,,H04N,3,H04N\d\d03\d+
+2,Electrical engineering,Audio-visual technology,H04N   5%,,,H04N,5,H04N\d\d05\d+
+2,Electrical engineering,Audio-visual technology,H04N   7%,,,H04N,7,H04N\d\d07\d+
+2,Electrical engineering,Audio-visual technology,H04N   9%,,,H04N,9,H04N\d\d09\d+
+2,Electrical engineering,Audio-visual technology,H04N  11%,,,H04N,11,H04N\d\d11\d+
+2,Electrical engineering,Audio-visual technology,H04N  13%,,,H04N,13,H04N\d\d13\d+
+2,Electrical engineering,Audio-visual technology,H04N  15%,,,H04N,15,H04N\d\d15\d+
+2,Electrical engineering,Audio-visual technology,H04N  17%,,,H04N,17,H04N\d\d17\d+
+2,Electrical engineering,Audio-visual technology,H04N  19%,"June 10, 2014",,H04N,19,H04N\d\d19\d+
+2,Electrical engineering,Audio-visual technology,H04N 101%,,,H04N,101,H04N\d\d101\d+
+2,Electrical engineering,Audio-visual technology,H04R%,,,H04R,,H04R\d\d\d+
+2,Electrical engineering,Audio-visual technology,H04S%,,,H04S,,H04S\d\d\d+
+2,Electrical engineering,Audio-visual technology,H05K%,,,H05K,,H05K\d\d\d+
+3,Electrical engineering,Telecommunications,G08C%,,,G08C,,G08C\d\d\d+
+3,Electrical engineering,Telecommunications,H01P%,,,H01P,,H01P\d\d\d+
+3,Electrical engineering,Telecommunications,H01Q%,,,H01Q,,H01Q\d\d\d+
+3,Electrical engineering,Telecommunications,H04B%,,,H04B,,H04B\d\d\d+
+3,Electrical engineering,Telecommunications,H04H%,,,H04H,,H04H\d\d\d+
+3,Electrical engineering,Telecommunications,H04J%,,,H04J,,H04J\d\d\d+
+3,Electrical engineering,Telecommunications,H04K%,,,H04K,,H04K\d\d\d+
+3,Electrical engineering,Telecommunications,H04M%,,,H04M,,H04M\d\d\d+
+3,Electrical engineering,Telecommunications,H04N   1%,,,H04N,1,H04N\d\d01\d+
+3,Electrical engineering,Telecommunications,H04Q%,,,H04Q,,H04Q\d\d\d+
+4,Electrical engineering,Digital communication,H04L%,,,H04L,,H04L\d\d\d+
+4,Electrical engineering,Digital communication,H04N  21%,,,H04N,21,H04N\d\d21\d+
+4,Electrical engineering,Digital communication,H04W%,,,H04W,,H04W\d\d\d+
+5,Electrical engineering,Basic communication processes,H03B%,,,H03B,,H03B\d\d\d+
+5,Electrical engineering,Basic communication processes,H03C%,,,H03C,,H03C\d\d\d+
+5,Electrical engineering,Basic communication processes,H03D%,,,H03D,,H03D\d\d\d+
+5,Electrical engineering,Basic communication processes,H03F%,,,H03F,,H03F\d\d\d+
+5,Electrical engineering,Basic communication processes,H03G%,,,H03G,,H03G\d\d\d+
+5,Electrical engineering,Basic communication processes,H03H%,,,H03H,,H03H\d\d\d+
+5,Electrical engineering,Basic communication processes,H03J%,,,H03J,,H03J\d\d\d+
+5,Electrical engineering,Basic communication processes,H03K%,,,H03K,,H03K\d\d\d+
+5,Electrical engineering,Basic communication processes,H03L%,,,H03L,,H03L\d\d\d+
+5,Electrical engineering,Basic communication processes,H03M%,,,H03M,,H03M\d\d\d+
+6,Electrical engineering,Computer technology,G06C%,,,G06C,,G06C\d\d\d+
+6,Electrical engineering,Computer technology,G06D%,,,G06D,,G06D\d\d\d+
+6,Electrical engineering,Computer technology,G06E%,,,G06E,,G06E\d\d\d+
+6,Electrical engineering,Computer technology,G06F%,,,G06F,,G06F\d\d\d+
+6,Electrical engineering,Computer technology,G06G%,,,G06G,,G06G\d\d\d+
+6,Electrical engineering,Computer technology,G06J%,,,G06J,,G06J\d\d\d+
+6,Electrical engineering,Computer technology,G06K%,,,G06K,,G06K\d\d\d+
+6,Electrical engineering,Computer technology,G06M%,,,G06M,,G06M\d\d\d+
+6,Electrical engineering,Computer technology,G06N%,,,G06N,,G06N\d\d\d+
+6,Electrical engineering,Computer technology,G06T%,,,G06T,,G06T\d\d\d+
+6,Electrical engineering,Computer technology,G10L%,,,G10L,,G10L\d\d\d+
+6,Electrical engineering,Computer technology,G11C%,,,G11C,,G11C\d\d\d+
+7,Electrical engineering,IT methods for management,G06Q%,,,G06Q,,G06Q\d\d\d+
+8,Electrical engineering,Semiconductors,H01L%,,,H01L,,H01L\d\d\d+
+9,Instruments,Optics,G02B%,,,G02B,,G02B\d\d\d+
+9,Instruments,Optics,G02C%,,,G02C,,G02C\d\d\d+
+9,Instruments,Optics,G02F%,,,G02F,,G02F\d\d\d+
+9,Instruments,Optics,G03B%,,,G03B,,G03B\d\d\d+
+9,Instruments,Optics,G03C%,,,G03C,,G03C\d\d\d+
+9,Instruments,Optics,G03D%,,,G03D,,G03D\d\d\d+
+9,Instruments,Optics,G03F%,,,G03F,,G03F\d\d\d+
+9,Instruments,Optics,G03G%,,,G03G,,G03G\d\d\d+
+9,Instruments,Optics,G03H%,,,G03H,,G03H\d\d\d+
+9,Instruments,Optics,H01S%,,,H01S,,H01S\d\d\d+
+10,Instruments,Measurement,G01B%,,,G01B,,G01B\d\d\d+
+10,Instruments,Measurement,G01C%,,,G01C,,G01C\d\d\d+
+10,Instruments,Measurement,G01D%,,,G01D,,G01D\d\d\d+
+10,Instruments,Measurement,G01F%,,,G01F,,G01F\d\d\d+
+10,Instruments,Measurement,G01G%,,,G01G,,G01G\d\d\d+
+10,Instruments,Measurement,G01H%,,,G01H,,G01H\d\d\d+
+10,Instruments,Measurement,G01J%,,,G01J,,G01J\d\d\d+
+10,Instruments,Measurement,G01K%,,,G01K,,G01K\d\d\d+
+10,Instruments,Measurement,G01L%,,,G01L,,G01L\d\d\d+
+10,Instruments,Measurement,G01M%,,,G01M,,G01M\d\d\d+
+10,Instruments,Measurement,G01N   1%,,,G01N,1,G01N\d\d01\d+
+10,Instruments,Measurement,G01N   3%,,,G01N,3,G01N\d\d03\d+
+10,Instruments,Measurement,G01N   5%,,,G01N,5,G01N\d\d05\d+
+10,Instruments,Measurement,G01N   7%,,,G01N,7,G01N\d\d07\d+
+10,Instruments,Measurement,G01N   9%,,,G01N,9,G01N\d\d09\d+
+10,Instruments,Measurement,G01N  11%,,,G01N,11,G01N\d\d11\d+
+10,Instruments,Measurement,G01N  13%,,,G01N,13,G01N\d\d13\d+
+10,Instruments,Measurement,G01N  15%,,,G01N,15,G01N\d\d15\d+
+10,Instruments,Measurement,G01N  17%,,,G01N,17,G01N\d\d17\d+
+10,Instruments,Measurement,G01N  19%,,,G01N,19,G01N\d\d19\d+
+10,Instruments,Measurement,G01N  21%,,,G01N,21,G01N\d\d21\d+
+10,Instruments,Measurement,G01N  22%,,,G01N,22,G01N\d\d22\d+
+10,Instruments,Measurement,G01N  23%,,,G01N,23,G01N\d\d23\d+
+10,Instruments,Measurement,G01N  24%,,,G01N,24,G01N\d\d24\d+
+10,Instruments,Measurement,G01N  25%,,,G01N,25,G01N\d\d25\d+
+10,Instruments,Measurement,G01N  27%,,,G01N,27,G01N\d\d27\d+
+10,Instruments,Measurement,G01N  29%,,,G01N,29,G01N\d\d29\d+
+10,Instruments,Measurement,G01N  30%,,,G01N,30,G01N\d\d30\d+
+10,Instruments,Measurement,G01N  31%,,,G01N,31,G01N\d\d31\d+
+10,Instruments,Measurement,G01N  35%,,,G01N,35,G01N\d\d35\d+
+10,Instruments,Measurement,G01N  37%,,,G01N,37,G01N\d\d37\d+
+10,Instruments,Measurement,G01P%,,,G01P,,G01P\d\d\d+
+10,Instruments,Measurement,G01Q%,,,G01Q,,G01Q\d\d\d+
+10,Instruments,Measurement,G01R%,,,G01R,,G01R\d\d\d+
+10,Instruments,Measurement,G01S%,,,G01S,,G01S\d\d\d+
+10,Instruments,Measurement,G01V%,,,G01V,,G01V\d\d\d+
+10,Instruments,Measurement,G01W%,,,G01W,,G01W\d\d\d+
+10,Instruments,Measurement,G04B%,,,G04B,,G04B\d\d\d+
+10,Instruments,Measurement,G04C%,,,G04C,,G04C\d\d\d+
+10,Instruments,Measurement,G04D%,,,G04D,,G04D\d\d\d+
+10,Instruments,Measurement,G04F%,,Newly added,G04F,,G04F\d\d\d+
+10,Instruments,Measurement,G04G%,,,G04G,,G04G\d\d\d+
+10,Instruments,Measurement,G04R%,"January 1, 2013",,G04R,,G04R\d\d\d+
+10,Instruments,Measurement,G12B%,,,G12B,,G12B\d\d\d+
+10,Instruments,Measurement,G99Z%,,,G99Z,,G99Z\d\d\d+
+11,Instruments,Analysis of biological materials,G01N  33%,,,G01N,33,G01N\d\d33\d+
+12,Instruments,Control,G05B%,,,G05B,,G05B\d\d\d+
+12,Instruments,Control,G05D%,,,G05D,,G05D\d\d\d+
+12,Instruments,Control,G05F%,,,G05F,,G05F\d\d\d+
+12,Instruments,Control,G07B%,,,G07B,,G07B\d\d\d+
+12,Instruments,Control,G07C%,,,G07C,,G07C\d\d\d+
+12,Instruments,Control,G07D%,,,G07D,,G07D\d\d\d+
+12,Instruments,Control,G07F%,,,G07F,,G07F\d\d\d+
+12,Instruments,Control,G07G%,,,G07G,,G07G\d\d\d+
+12,Instruments,Control,G08B%,,,G08B,,G08B\d\d\d+
+12,Instruments,Control,G08G%,,,G08G,,G08G\d\d\d+
+12,Instruments,Control,G09B%,,,G09B,,G09B\d\d\d+
+12,Instruments,Control,G09C%,,,G09C,,G09C\d\d\d+
+12,Instruments,Control,G09D%,,,G09D,,G09D\d\d\d+
+13,Instruments,Medical technology,A61B%,,,A61B,,A61B\d\d\d+
+13,Instruments,Medical technology,A61C%,,,A61C,,A61C\d\d\d+
+13,Instruments,Medical technology,A61D%,,,A61D,,A61D\d\d\d+
+13,Instruments,Medical technology,A61F%,,,A61F,,A61F\d\d\d+
+13,Instruments,Medical technology,A61G%,,,A61G,,A61G\d\d\d+
+13,Instruments,Medical technology,A61H%,,,A61H,,A61H\d\d\d+
+13,Instruments,Medical technology,A61J%,,,A61J,,A61J\d\d\d+
+13,Instruments,Medical technology,A61L%,,,A61L,,A61L\d\d\d+
+13,Instruments,Medical technology,A61M%,,,A61M,,A61M\d\d\d+
+13,Instruments,Medical technology,A61N%,,,A61N,,A61N\d\d\d+
+13,Instruments,Medical technology,H05G%,,,H05G,,H05G\d\d\d+
+13,Instruments,Medical technology,G16H%,"January 1, 2018",Newly added,G16H,,G16H\d\d\d+
+14,Chemistry,Organic fine chemistry,A61K   8%,,,A61K,8,A61K\d\d08\d+
+14,Chemistry,Organic fine chemistry,A61Q%,,,A61Q,,A61Q\d\d\d+
+14,Chemistry,Organic fine chemistry,C07B%,,,C07B,,C07B\d\d\d+
+14,Chemistry,Organic fine chemistry,C07C%,,,C07C,,C07C\d\d\d+
+14,Chemistry,Organic fine chemistry,C07D%,,,C07D,,C07D\d\d\d+
+14,Chemistry,Organic fine chemistry,C07F%,,,C07F,,C07F\d\d\d+
+14,Chemistry,Organic fine chemistry,C07H%,,,C07H,,C07H\d\d\d+
+14,Chemistry,Organic fine chemistry,C07J%,,,C07J,,C07J\d\d\d+
+14,Chemistry,Organic fine chemistry,C40B%,,,C40B,,C40B\d\d\d+
+15,Chemistry,Biotechnology,C07G%,,,C07G,,C07G\d\d\d+
+15,Chemistry,Biotechnology,C07K%,,,C07K,,C07K\d\d\d+
+15,Chemistry,Biotechnology,C12M%,,,C12M,,C12M\d\d\d+
+15,Chemistry,Biotechnology,C12N%,,,C12N,,C12N\d\d\d+
+15,Chemistry,Biotechnology,C12P%,,,C12P,,C12P\d\d\d+
+15,Chemistry,Biotechnology,C12Q%,,,C12Q,,C12Q\d\d\d+
+15,Chemistry,Biotechnology,C12R%,,,C12R,,C12R\d\d\d+
+15,Chemistry,Biotechnology,C12S%,,,C12S,,C12S\d\d\d+
+16,Chemistry,Pharmaceuticals,A61K   6%,,,A61K,6,A61K\d\d06\d+
+16,Chemistry,Pharmaceuticals,A61K   9%,,,A61K,9,A61K\d\d09\d+
+16,Chemistry,Pharmaceuticals,A61K  31%,,,A61K,31,A61K\d\d31\d+
+16,Chemistry,Pharmaceuticals,A61K  33%,,,A61K,33,A61K\d\d33\d+
+16,Chemistry,Pharmaceuticals,A61K  35%,,,A61K,35,A61K\d\d35\d+
+16,Chemistry,Pharmaceuticals,A61K  36%,,,A61K,36,A61K\d\d36\d+
+16,Chemistry,Pharmaceuticals,A61K  38%,,,A61K,38,A61K\d\d38\d+
+16,Chemistry,Pharmaceuticals,A61K  39%,,,A61K,39,A61K\d\d39\d+
+16,Chemistry,Pharmaceuticals,A61K  41%,,,A61K,41,A61K\d\d41\d+
+16,Chemistry,Pharmaceuticals,A61K  45%,,,A61K,45,A61K\d\d45\d+
+16,Chemistry,Pharmaceuticals,A61K  47%,,,A61K,47,A61K\d\d47\d+
+16,Chemistry,Pharmaceuticals,A61K  48%,,,A61K,48,A61K\d\d48\d+
+16,Chemistry,Pharmaceuticals,A61K  49%,,,A61K,49,A61K\d\d49\d+
+16,Chemistry,Pharmaceuticals,A61K  50%,,,A61K,50,A61K\d\d50\d+
+16,Chemistry,Pharmaceuticals,A61K  51%,,,A61K,51,A61K\d\d51\d+
+16,Chemistry,Pharmaceuticals,A61K 101%,,,A61K,101,A61K\d\d101\d+
+16,Chemistry,Pharmaceuticals,A61K 103%,,,A61K,103,A61K\d\d103\d+
+16,Chemistry,Pharmaceuticals,A61K 125%,,,A61K,125,A61K\d\d125\d+
+16,Chemistry,Pharmaceuticals,A61K 127%,,,A61K,127,A61K\d\d127\d+
+16,Chemistry,Pharmaceuticals,A61K 129%,,,A61K,129,A61K\d\d129\d+
+16,Chemistry,Pharmaceuticals,A61K 131%,,,A61K,131,A61K\d\d131\d+
+16,Chemistry,Pharmaceuticals,A61K 133%,,,A61K,133,A61K\d\d133\d+
+16,Chemistry,Pharmaceuticals,A61K 135%,,,A61K,135,A61K\d\d135\d+
+16,Chemistry,Pharmaceuticals,A61P%,,,A61P,,A61P\d\d\d+
+17,Chemistry,"Macromolecular chemistry, polymers",C08B%,,,C08B,,C08B\d\d\d+
+17,Chemistry,"Macromolecular chemistry, polymers",C08C%,,,C08C,,C08C\d\d\d+
+17,Chemistry,"Macromolecular chemistry, polymers",C08F%,,,C08F,,C08F\d\d\d+
+17,Chemistry,"Macromolecular chemistry, polymers",C08G%,,,C08G,,C08G\d\d\d+
+17,Chemistry,"Macromolecular chemistry, polymers",C08H%,,,C08H,,C08H\d\d\d+
+17,Chemistry,"Macromolecular chemistry, polymers",C08K%,,,C08K,,C08K\d\d\d+
+17,Chemistry,"Macromolecular chemistry, polymers",C08L%,,,C08L,,C08L\d\d\d+
+18,Chemistry,Food chemistry,A01H%,,,A01H,,A01H\d\d\d+
+18,Chemistry,Food chemistry,A21D%,,,A21D,,A21D\d\d\d+
+18,Chemistry,Food chemistry,A23B%,,,A23B,,A23B\d\d\d+
+18,Chemistry,Food chemistry,A23C%,,,A23C,,A23C\d\d\d+
+18,Chemistry,Food chemistry,A23D%,,,A23D,,A23D\d\d\d+
+18,Chemistry,Food chemistry,A23F%,,,A23F,,A23F\d\d\d+
+18,Chemistry,Food chemistry,A23G%,,,A23G,,A23G\d\d\d+
+18,Chemistry,Food chemistry,A23J%,,,A23J,,A23J\d\d\d+
+18,Chemistry,Food chemistry,A23K%,,,A23K,,A23K\d\d\d+
+18,Chemistry,Food chemistry,A23L%,,,A23L,,A23L\d\d\d+
+18,Chemistry,Food chemistry,C12C%,,,C12C,,C12C\d\d\d+
+18,Chemistry,Food chemistry,C12F%,,,C12F,,C12F\d\d\d+
+18,Chemistry,Food chemistry,C12G%,,,C12G,,C12G\d\d\d+
+18,Chemistry,Food chemistry,C12H%,,Newly added,C12H,,C12H\d\d\d+
+18,Chemistry,Food chemistry,C12J%,,Newly added,C12J,,C12J\d\d\d+
+18,Chemistry,Food chemistry,C13B  10%,"August 15, 2011",Newly added,C13B,10,C13B\d\d10\d+
+18,Chemistry,Food chemistry,C13B  20%,"August 15, 2011",Newly added,C13B,20,C13B\d\d20\d+
+18,Chemistry,Food chemistry,C13B  30%,"August 15, 2011",Newly added,C13B,30,C13B\d\d30\d+
+18,Chemistry,Food chemistry,C13B  35%,"August 15, 2011",Newly added,C13B,35,C13B\d\d35\d+
+18,Chemistry,Food chemistry,C13B  40%,"August 15, 2011",Newly added,C13B,40,C13B\d\d40\d+
+18,Chemistry,Food chemistry,C13B  50%,"August 15, 2011",,C13B,50,C13B\d\d50\d+
+18,Chemistry,Food chemistry,C13B  99%,"August 15, 2011",,C13B,99,C13B\d\d99\d+
+18,Chemistry,Food chemistry,C13D%,,,C13D,,C13D\d\d\d+
+18,Chemistry,Food chemistry,C13F%,,,C13F,,C13F\d\d\d+
+18,Chemistry,Food chemistry,C13J%,,,C13J,,C13J\d\d\d+
+18,Chemistry,Food chemistry,C13K%,,,C13K,,C13K\d\d\d+
+19,Chemistry,Basic materials chemistry ,A01N%,,,A01N,,A01N\d\d\d+
+19,Chemistry,Basic materials chemistry ,A01P%,,,A01P,,A01P\d\d\d+
+19,Chemistry,Basic materials chemistry ,C05B%,,,C05B,,C05B\d\d\d+
+19,Chemistry,Basic materials chemistry ,C05C%,,,C05C,,C05C\d\d\d+
+19,Chemistry,Basic materials chemistry ,C05D%,,,C05D,,C05D\d\d\d+
+19,Chemistry,Basic materials chemistry ,C05F%,,,C05F,,C05F\d\d\d+
+19,Chemistry,Basic materials chemistry ,C05G%,,,C05G,,C05G\d\d\d+
+19,Chemistry,Basic materials chemistry ,C06B%,,,C06B,,C06B\d\d\d+
+19,Chemistry,Basic materials chemistry ,C06C%,,,C06C,,C06C\d\d\d+
+19,Chemistry,Basic materials chemistry ,C06D%,,,C06D,,C06D\d\d\d+
+19,Chemistry,Basic materials chemistry ,C06F%,,,C06F,,C06F\d\d\d+
+19,Chemistry,Basic materials chemistry ,C09B%,,,C09B,,C09B\d\d\d+
+19,Chemistry,Basic materials chemistry ,C09C%,,,C09C,,C09C\d\d\d+
+19,Chemistry,Basic materials chemistry ,C09D%,,,C09D,,C09D\d\d\d+
+19,Chemistry,Basic materials chemistry ,C09F%,,,C09F,,C09F\d\d\d+
+19,Chemistry,Basic materials chemistry ,C09G%,,,C09G,,C09G\d\d\d+
+19,Chemistry,Basic materials chemistry ,C09H%,,,C09H,,C09H\d\d\d+
+19,Chemistry,Basic materials chemistry ,C09J%,,,C09J,,C09J\d\d\d+
+19,Chemistry,Basic materials chemistry ,C09K%,,,C09K,,C09K\d\d\d+
+19,Chemistry,Basic materials chemistry ,C10B%,,,C10B,,C10B\d\d\d+
+19,Chemistry,Basic materials chemistry ,C10C%,,,C10C,,C10C\d\d\d+
+19,Chemistry,Basic materials chemistry ,C10F%,,,C10F,,C10F\d\d\d+
+19,Chemistry,Basic materials chemistry ,C10G%,,,C10G,,C10G\d\d\d+
+19,Chemistry,Basic materials chemistry ,C10H%,,,C10H,,C10H\d\d\d+
+19,Chemistry,Basic materials chemistry ,C10J%,,,C10J,,C10J\d\d\d+
+19,Chemistry,Basic materials chemistry ,C10K%,,,C10K,,C10K\d\d\d+
+19,Chemistry,Basic materials chemistry ,C10L%,,,C10L,,C10L\d\d\d+
+19,Chemistry,Basic materials chemistry ,C10M%,,,C10M,,C10M\d\d\d+
+19,Chemistry,Basic materials chemistry ,C10N%,,,C10N,,C10N\d\d\d+
+19,Chemistry,Basic materials chemistry ,C11B%,,,C11B,,C11B\d\d\d+
+19,Chemistry,Basic materials chemistry ,C11C%,,,C11C,,C11C\d\d\d+
+19,Chemistry,Basic materials chemistry ,C11D%,,,C11D,,C11D\d\d\d+
+19,Chemistry,Basic materials chemistry ,C99Z%,,,C99Z,,C99Z\d\d\d+
+20,Chemistry,"Materials, metallurgy",B22C%,,,B22C,,B22C\d\d\d+
+20,Chemistry,"Materials, metallurgy",B22D%,,,B22D,,B22D\d\d\d+
+20,Chemistry,"Materials, metallurgy",B22F%,,,B22F,,B22F\d\d\d+
+20,Chemistry,"Materials, metallurgy",C01B%,,,C01B,,C01B\d\d\d+
+20,Chemistry,"Materials, metallurgy",C01C%,,,C01C,,C01C\d\d\d+
+20,Chemistry,"Materials, metallurgy",C01D%,,,C01D,,C01D\d\d\d+
+20,Chemistry,"Materials, metallurgy",C01F%,,,C01F,,C01F\d\d\d+
+20,Chemistry,"Materials, metallurgy",C01G%,,,C01G,,C01G\d\d\d+
+20,Chemistry,"Materials, metallurgy",C03C%,,,C03C,,C03C\d\d\d+
+20,Chemistry,"Materials, metallurgy",C04B%,,,C04B,,C04B\d\d\d+
+20,Chemistry,"Materials, metallurgy",C21B%,,,C21B,,C21B\d\d\d+
+20,Chemistry,"Materials, metallurgy",C21C%,,,C21C,,C21C\d\d\d+
+20,Chemistry,"Materials, metallurgy",C21D%,,,C21D,,C21D\d\d\d+
+20,Chemistry,"Materials, metallurgy",C22B%,,,C22B,,C22B\d\d\d+
+20,Chemistry,"Materials, metallurgy",C22C%,,,C22C,,C22C\d\d\d+
+20,Chemistry,"Materials, metallurgy",C22F%,,,C22F,,C22F\d\d\d+
+21,Chemistry,"Surface technology, coating",B05C%,,,B05C,,B05C\d\d\d+
+21,Chemistry,"Surface technology, coating",B05D%,,,B05D,,B05D\d\d\d+
+21,Chemistry,"Surface technology, coating",B32B%,,,B32B,,B32B\d\d\d+
+21,Chemistry,"Surface technology, coating",C23C%,,,C23C,,C23C\d\d\d+
+21,Chemistry,"Surface technology, coating",C23D%,,,C23D,,C23D\d\d\d+
+21,Chemistry,"Surface technology, coating",C23F%,,,C23F,,C23F\d\d\d+
+21,Chemistry,"Surface technology, coating",C23G%,,,C23G,,C23G\d\d\d+
+21,Chemistry,"Surface technology, coating",C25B%,,,C25B,,C25B\d\d\d+
+21,Chemistry,"Surface technology, coating",C25C%,,,C25C,,C25C\d\d\d+
+21,Chemistry,"Surface technology, coating",C25D%,,,C25D,,C25D\d\d\d+
+21,Chemistry,"Surface technology, coating",C25F%,,,C25F,,C25F\d\d\d+
+21,Chemistry,"Surface technology, coating",C30B%,,,C30B,,C30B\d\d\d+
+22,Chemistry,Micro-structural and nano-technology,B81B%,,,B81B,,B81B\d\d\d+
+22,Chemistry,Micro-structural and nano-technology,B81C%,,Newly added,B81C,,B81C\d\d\d+
+22,Chemistry,Micro-structural and nano-technology,B82B%,,,B82B,,B82B\d\d\d+
+22,Chemistry,Micro-structural and nano-technology,B82Y%,"August 15, 2011",,B82Y,,B82Y\d\d\d+
+23,Chemistry,Chemical engineering,B01B%,,,B01B,,B01B\d\d\d+
+23,Chemistry,Chemical engineering,B01D   1%,,,B01D,1,B01D\d\d01\d+
+23,Chemistry,Chemical engineering,B01D   3%,,,B01D,3,B01D\d\d03\d+
+23,Chemistry,Chemical engineering,B01D   5%,,,B01D,5,B01D\d\d05\d+
+23,Chemistry,Chemical engineering,B01D   7%,,,B01D,7,B01D\d\d07\d+
+23,Chemistry,Chemical engineering,B01D   8%,,,B01D,8,B01D\d\d08\d+
+23,Chemistry,Chemical engineering,B01D   9%,,,B01D,9,B01D\d\d09\d+
+23,Chemistry,Chemical engineering,B01D  11%,,,B01D,11,B01D\d\d11\d+
+23,Chemistry,Chemical engineering,B01D  12%,,,B01D,12,B01D\d\d12\d+
+23,Chemistry,Chemical engineering,B01D  15%,,,B01D,15,B01D\d\d15\d+
+23,Chemistry,Chemical engineering,B01D  17%,,,B01D,17,B01D\d\d17\d+
+23,Chemistry,Chemical engineering,B01D  19%,,,B01D,19,B01D\d\d19\d+
+23,Chemistry,Chemical engineering,B01D  21%,,,B01D,21,B01D\d\d21\d+
+23,Chemistry,Chemical engineering,B01D  24%,,,B01D,24,B01D\d\d24\d+
+23,Chemistry,Chemical engineering,B01D  25%,,,B01D,25,B01D\d\d25\d+
+23,Chemistry,Chemical engineering,B01D  27%,,,B01D,27,B01D\d\d27\d+
+23,Chemistry,Chemical engineering,B01D  29%,,,B01D,29,B01D\d\d29\d+
+23,Chemistry,Chemical engineering,B01D  33%,,,B01D,33,B01D\d\d33\d+
+23,Chemistry,Chemical engineering,B01D  35%,,,B01D,35,B01D\d\d35\d+
+23,Chemistry,Chemical engineering,B01D  36%,,,B01D,36,B01D\d\d36\d+
+23,Chemistry,Chemical engineering,B01D  37%,,,B01D,37,B01D\d\d37\d+
+23,Chemistry,Chemical engineering,B01D  39%,,,B01D,39,B01D\d\d39\d+
+23,Chemistry,Chemical engineering,B01D  41%,,,B01D,41,B01D\d\d41\d+
+23,Chemistry,Chemical engineering,B01D  43%,,,B01D,43,B01D\d\d43\d+
+23,Chemistry,Chemical engineering,B01D  57%,,,B01D,57,B01D\d\d57\d+
+23,Chemistry,Chemical engineering,B01D  59%,,,B01D,59,B01D\d\d59\d+
+23,Chemistry,Chemical engineering,B01D  61%,,,B01D,61,B01D\d\d61\d+
+23,Chemistry,Chemical engineering,B01D  63%,,,B01D,63,B01D\d\d63\d+
+23,Chemistry,Chemical engineering,B01D  65%,,,B01D,65,B01D\d\d65\d+
+23,Chemistry,Chemical engineering,B01D  67%,,,B01D,67,B01D\d\d67\d+
+23,Chemistry,Chemical engineering,B01D  69%,,,B01D,69,B01D\d\d69\d+
+23,Chemistry,Chemical engineering,B01D  71%,,,B01D,71,B01D\d\d71\d+
+23,Chemistry,Chemical engineering,B01F%,,,B01F,,B01F\d\d\d+
+23,Chemistry,Chemical engineering,B01J%,,,B01J,,B01J\d\d\d+
+23,Chemistry,Chemical engineering,B01L%,,,B01L,,B01L\d\d\d+
+23,Chemistry,Chemical engineering,B02C%,,,B02C,,B02C\d\d\d+
+23,Chemistry,Chemical engineering,B03B%,,,B03B,,B03B\d\d\d+
+23,Chemistry,Chemical engineering,B03C%,,,B03C,,B03C\d\d\d+
+23,Chemistry,Chemical engineering,B03D%,,,B03D,,B03D\d\d\d+
+23,Chemistry,Chemical engineering,B04B%,,,B04B,,B04B\d\d\d+
+23,Chemistry,Chemical engineering,B04C%,,,B04C,,B04C\d\d\d+
+23,Chemistry,Chemical engineering,B05B%,,,B05B,,B05B\d\d\d+
+23,Chemistry,Chemical engineering,B06B%,,,B06B,,B06B\d\d\d+
+23,Chemistry,Chemical engineering,B07B%,,,B07B,,B07B\d\d\d+
+23,Chemistry,Chemical engineering,B07C%,,,B07C,,B07C\d\d\d+
+23,Chemistry,Chemical engineering,B08B%,,,B08B,,B08B\d\d\d+
+23,Chemistry,Chemical engineering,C14C%,,,C14C,,C14C\d\d\d+
+23,Chemistry,Chemical engineering,D06B%,,,D06B,,D06B\d\d\d+
+23,Chemistry,Chemical engineering,D06C%,,,D06C,,D06C\d\d\d+
+23,Chemistry,Chemical engineering,D06L%,,,D06L,,D06L\d\d\d+
+23,Chemistry,Chemical engineering,F25J%,,,F25J,,F25J\d\d\d+
+23,Chemistry,Chemical engineering,F26B%,,,F26B,,F26B\d\d\d+
+23,Chemistry,Chemical engineering,H05H%,,,H05H,,H05H\d\d\d+
+24,Chemistry,Environmental technology,A62C%,,,A62C,,A62C\d\d\d+
+24,Chemistry,Environmental technology,B01D  45%,,,B01D,45,B01D\d\d45\d+
+24,Chemistry,Environmental technology,B01D  46%,,,B01D,46,B01D\d\d46\d+
+24,Chemistry,Environmental technology,B01D  47%,,,B01D,47,B01D\d\d47\d+
+24,Chemistry,Environmental technology,B01D  49%,,,B01D,49,B01D\d\d49\d+
+24,Chemistry,Environmental technology,B01D  50%,,,B01D,50,B01D\d\d50\d+
+24,Chemistry,Environmental technology,B01D  51%,,,B01D,51,B01D\d\d51\d+
+24,Chemistry,Environmental technology,B01D  52%,,,B01D,52,B01D\d\d52\d+
+24,Chemistry,Environmental technology,B01D  53%,,,B01D,53,B01D\d\d53\d+
+24,Chemistry,Environmental technology,B09B%,,,B09B,,B09B\d\d\d+
+24,Chemistry,Environmental technology,B09C%,,,B09C,,B09C\d\d\d+
+24,Chemistry,Environmental technology,B65F%,,,B65F,,B65F\d\d\d+
+24,Chemistry,Environmental technology,C02F%,,,C02F,,C02F\d\d\d+
+24,Chemistry,Environmental technology,E01F   8%,,,E01F,8,E01F\d\d08\d+
+24,Chemistry,Environmental technology,F01N%,,,F01N,,F01N\d\d\d+
+24,Chemistry,Environmental technology,F23G%,,,F23G,,F23G\d\d\d+
+24,Chemistry,Environmental technology,F23J%,,,F23J,,F23J\d\d\d+
+24,Chemistry,Environmental technology,G01T%,,,G01T,,G01T\d\d\d+
+25,Mechanical engineering,Handling,B25J%,,,B25J,,B25J\d\d\d+
+25,Mechanical engineering,Handling,B65B%,,,B65B,,B65B\d\d\d+
+25,Mechanical engineering,Handling,B65C%,,,B65C,,B65C\d\d\d+
+25,Mechanical engineering,Handling,B65D%,,,B65D,,B65D\d\d\d+
+25,Mechanical engineering,Handling,B65G%,,,B65G,,B65G\d\d\d+
+25,Mechanical engineering,Handling,B65H%,,,B65H,,B65H\d\d\d+
+25,Mechanical engineering,Handling,B66B%,,,B66B,,B66B\d\d\d+
+25,Mechanical engineering,Handling,B66C%,,,B66C,,B66C\d\d\d+
+25,Mechanical engineering,Handling,B66D%,,,B66D,,B66D\d\d\d+
+25,Mechanical engineering,Handling,B66F%,,,B66F,,B66F\d\d\d+
+25,Mechanical engineering,Handling,B67B%,,,B67B,,B67B\d\d\d+
+25,Mechanical engineering,Handling,B67C%,,,B67C,,B67C\d\d\d+
+25,Mechanical engineering,Handling,B67D%,,,B67D,,B67D\d\d\d+
+26,Mechanical engineering,Machine tools,A62D%,,,A62D,,A62D\d\d\d+
+26,Mechanical engineering,Machine tools,B21B%,,,B21B,,B21B\d\d\d+
+26,Mechanical engineering,Machine tools,B21C%,,,B21C,,B21C\d\d\d+
+26,Mechanical engineering,Machine tools,B21D%,,,B21D,,B21D\d\d\d+
+26,Mechanical engineering,Machine tools,B21F%,,,B21F,,B21F\d\d\d+
+26,Mechanical engineering,Machine tools,B21G%,,,B21G,,B21G\d\d\d+
+26,Mechanical engineering,Machine tools,B21H%,,,B21H,,B21H\d\d\d+
+26,Mechanical engineering,Machine tools,B21J%,,,B21J,,B21J\d\d\d+
+26,Mechanical engineering,Machine tools,B21K%,,,B21K,,B21K\d\d\d+
+26,Mechanical engineering,Machine tools,B21L%,,,B21L,,B21L\d\d\d+
+26,Mechanical engineering,Machine tools,B23B%,,,B23B,,B23B\d\d\d+
+26,Mechanical engineering,Machine tools,B23C%,,,B23C,,B23C\d\d\d+
+26,Mechanical engineering,Machine tools,B23D%,,,B23D,,B23D\d\d\d+
+26,Mechanical engineering,Machine tools,B23F%,,,B23F,,B23F\d\d\d+
+26,Mechanical engineering,Machine tools,B23G%,,,B23G,,B23G\d\d\d+
+26,Mechanical engineering,Machine tools,B23H%,,,B23H,,B23H\d\d\d+
+26,Mechanical engineering,Machine tools,B23K%,,,B23K,,B23K\d\d\d+
+26,Mechanical engineering,Machine tools,B23P%,,,B23P,,B23P\d\d\d+
+26,Mechanical engineering,Machine tools,B23Q%,,,B23Q,,B23Q\d\d\d+
+26,Mechanical engineering,Machine tools,B24B%,,,B24B,,B24B\d\d\d+
+26,Mechanical engineering,Machine tools,B24C%,,,B24C,,B24C\d\d\d+
+26,Mechanical engineering,Machine tools,B24D%,,,B24D,,B24D\d\d\d+
+26,Mechanical engineering,Machine tools,B25B%,,,B25B,,B25B\d\d\d+
+26,Mechanical engineering,Machine tools,B25C%,,,B25C,,B25C\d\d\d+
+26,Mechanical engineering,Machine tools,B25D%,,,B25D,,B25D\d\d\d+
+26,Mechanical engineering,Machine tools,B25F%,,,B25F,,B25F\d\d\d+
+26,Mechanical engineering,Machine tools,B25G%,,,B25G,,B25G\d\d\d+
+26,Mechanical engineering,Machine tools,B25H%,,,B25H,,B25H\d\d\d+
+26,Mechanical engineering,Machine tools,B26B%,,,B26B,,B26B\d\d\d+
+26,Mechanical engineering,Machine tools,B26D%,,,B26D,,B26D\d\d\d+
+26,Mechanical engineering,Machine tools,B26F%,,,B26F,,B26F\d\d\d+
+26,Mechanical engineering,Machine tools,B27B%,,,B27B,,B27B\d\d\d+
+26,Mechanical engineering,Machine tools,B27C%,,,B27C,,B27C\d\d\d+
+26,Mechanical engineering,Machine tools,B27D%,,,B27D,,B27D\d\d\d+
+26,Mechanical engineering,Machine tools,B27F%,,,B27F,,B27F\d\d\d+
+26,Mechanical engineering,Machine tools,B27G%,,,B27G,,B27G\d\d\d+
+26,Mechanical engineering,Machine tools,B27H%,,,B27H,,B27H\d\d\d+
+26,Mechanical engineering,Machine tools,B27J%,,,B27J,,B27J\d\d\d+
+26,Mechanical engineering,Machine tools,B27K%,,,B27K,,B27K\d\d\d+
+26,Mechanical engineering,Machine tools,B27L%,,,B27L,,B27L\d\d\d+
+26,Mechanical engineering,Machine tools,B27M%,,,B27M,,B27M\d\d\d+
+26,Mechanical engineering,Machine tools,B27N%,,,B27N,,B27N\d\d\d+
+26,Mechanical engineering,Machine tools,B30B%,,,B30B,,B30B\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",F01B%,,,F01B,,F01B\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",F01C%,,,F01C,,F01C\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",F01D%,,,F01D,,F01D\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",F01K%,,,F01K,,F01K\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",F01L%,,,F01L,,F01L\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",F01M%,,,F01M,,F01M\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",F01P%,,,F01P,,F01P\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",F02B%,,,F02B,,F02B\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",F02C%,,,F02C,,F02C\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",F02D%,,,F02D,,F02D\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",F02F%,,,F02F,,F02F\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",F02G%,,,F02G,,F02G\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",F02K%,,,F02K,,F02K\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",F02M%,,,F02M,,F02M\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",F02N%,,,F02N,,F02N\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",F02P%,,,F02P,,F02P\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",F03B%,,,F03B,,F03B\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",F03C%,,,F03C,,F03C\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",F03D%,,,F03D,,F03D\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",F03G%,,,F03G,,F03G\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",F03H%,,,F03H,,F03H\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",F04B%,,,F04B,,F04B\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",F04C%,,,F04C,,F04C\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",F04D%,,,F04D,,F04D\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",F04F%,,,F04F,,F04F\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",F23R%,,,F23R,,F23R\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",F99Z%,,,F99Z,,F99Z\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",G21B%,,,G21B,,G21B\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",G21C%,,,G21C,,G21C\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",G21D%,,,G21D,,G21D\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",G21F%,,,G21F,,G21F\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",G21G%,,,G21G,,G21G\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",G21H%,,,G21H,,G21H\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",G21J%,,,G21J,,G21J\d\d\d+
+27,Mechanical engineering,"Engines, pumps, turbines",G21K%,,,G21K,,G21K\d\d\d+
+28,Mechanical engineering,Textile and paper machines,A41H%,,,A41H,,A41H\d\d\d+
+28,Mechanical engineering,Textile and paper machines,A43D%,,,A43D,,A43D\d\d\d+
+28,Mechanical engineering,Textile and paper machines,A46D%,,,A46D,,A46D\d\d\d+
+28,Mechanical engineering,Textile and paper machines,B31B%,,,B31B,,B31B\d\d\d+
+28,Mechanical engineering,Textile and paper machines,B31C%,,,B31C,,B31C\d\d\d+
+28,Mechanical engineering,Textile and paper machines,B31D%,,,B31D,,B31D\d\d\d+
+28,Mechanical engineering,Textile and paper machines,B31F%,,,B31F,,B31F\d\d\d+
+28,Mechanical engineering,Textile and paper machines,B41B%,,,B41B,,B41B\d\d\d+
+28,Mechanical engineering,Textile and paper machines,B41C%,,,B41C,,B41C\d\d\d+
+28,Mechanical engineering,Textile and paper machines,B41D%,,,B41D,,B41D\d\d\d+
+28,Mechanical engineering,Textile and paper machines,B41F%,,,B41F,,B41F\d\d\d+
+28,Mechanical engineering,Textile and paper machines,B41G%,,,B41G,,B41G\d\d\d+
+28,Mechanical engineering,Textile and paper machines,B41J%,,,B41J,,B41J\d\d\d+
+28,Mechanical engineering,Textile and paper machines,B41K%,,,B41K,,B41K\d\d\d+
+28,Mechanical engineering,Textile and paper machines,B41L%,,,B41L,,B41L\d\d\d+
+28,Mechanical engineering,Textile and paper machines,B41M%,,,B41M,,B41M\d\d\d+
+28,Mechanical engineering,Textile and paper machines,B41N%,,,B41N,,B41N\d\d\d+
+28,Mechanical engineering,Textile and paper machines,C14B%,,,C14B,,C14B\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D01B%,,,D01B,,D01B\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D01C%,,,D01C,,D01C\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D01D%,,,D01D,,D01D\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D01F%,,,D01F,,D01F\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D01G%,,,D01G,,D01G\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D01H%,,,D01H,,D01H\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D02G%,,,D02G,,D02G\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D02H%,,,D02H,,D02H\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D02J%,,,D02J,,D02J\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D03C%,,,D03C,,D03C\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D03D%,,,D03D,,D03D\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D03J%,,,D03J,,D03J\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D04B%,,,D04B,,D04B\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D04C%,,,D04C,,D04C\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D04G%,,,D04G,,D04G\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D04H%,,,D04H,,D04H\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D05B%,,,D05B,,D05B\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D05C%,,,D05C,,D05C\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D06G%,,,D06G,,D06G\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D06H%,,,D06H,,D06H\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D06J%,,,D06J,,D06J\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D06M%,,,D06M,,D06M\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D06P%,,,D06P,,D06P\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D06Q%,,,D06Q,,D06Q\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D21B%,,,D21B,,D21B\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D21C%,,,D21C,,D21C\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D21D%,,,D21D,,D21D\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D21F%,,,D21F,,D21F\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D21G%,,,D21G,,D21G\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D21H%,,,D21H,,D21H\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D21J%,,,D21J,,D21J\d\d\d+
+28,Mechanical engineering,Textile and paper machines,D99Z%,,,D99Z,,D99Z\d\d\d+
+29,Mechanical engineering,Other special machines,A01B%,,,A01B,,A01B\d\d\d+
+29,Mechanical engineering,Other special machines,A01C%,,,A01C,,A01C\d\d\d+
+29,Mechanical engineering,Other special machines,A01D%,,,A01D,,A01D\d\d\d+
+29,Mechanical engineering,Other special machines,A01F%,,,A01F,,A01F\d\d\d+
+29,Mechanical engineering,Other special machines,A01G%,,,A01G,,A01G\d\d\d+
+29,Mechanical engineering,Other special machines,A01J%,,,A01J,,A01J\d\d\d+
+29,Mechanical engineering,Other special machines,A01K%,,,A01K,,A01K\d\d\d+
+29,Mechanical engineering,Other special machines,A01L%,,,A01L,,A01L\d\d\d+
+29,Mechanical engineering,Other special machines,A01M%,,,A01M,,A01M\d\d\d+
+29,Mechanical engineering,Other special machines,A21B%,,,A21B,,A21B\d\d\d+
+29,Mechanical engineering,Other special machines,A21C%,,,A21C,,A21C\d\d\d+
+29,Mechanical engineering,Other special machines,A22B%,,,A22B,,A22B\d\d\d+
+29,Mechanical engineering,Other special machines,A22C%,,,A22C,,A22C\d\d\d+
+29,Mechanical engineering,Other special machines,A23N%,,,A23N,,A23N\d\d\d+
+29,Mechanical engineering,Other special machines,A23P%,,,A23P,,A23P\d\d\d+
+29,Mechanical engineering,Other special machines,B02B%,,,B02B,,B02B\d\d\d+
+29,Mechanical engineering,Other special machines,B28B%,,,B28B,,B28B\d\d\d+
+29,Mechanical engineering,Other special machines,B28C%,,,B28C,,B28C\d\d\d+
+29,Mechanical engineering,Other special machines,B28D%,,,B28D,,B28D\d\d\d+
+29,Mechanical engineering,Other special machines,B29B%,,,B29B,,B29B\d\d\d+
+29,Mechanical engineering,Other special machines,B29C%,,,B29C,,B29C\d\d\d+
+29,Mechanical engineering,Other special machines,B29D%,,,B29D,,B29D\d\d\d+
+29,Mechanical engineering,Other special machines,B29K%,,,B29K,,B29K\d\d\d+
+29,Mechanical engineering,Other special machines,B29L%,,,B29L,,B29L\d\d\d+
+29,Mechanical engineering,Other special machines,B33Y%,"January 1, 2015",,B33Y,,B33Y\d\d\d+
+29,Mechanical engineering,Other special machines,B99Z%,,,B99Z,,B99Z\d\d\d+
+29,Mechanical engineering,Other special machines,C03B%,,Newly added,C03B,,C03B\d\d\d+
+29,Mechanical engineering,Other special machines,C08J%,,Newly added,C08J,,C08J\d\d\d+
+29,Mechanical engineering,Other special machines,C12L%,,Newly added,C12L,,C12L\d\d\d+
+29,Mechanical engineering,Other special machines,C13B   5%,"August 15, 2011",Newly added,C13B,5,C13B\d\d05\d+
+29,Mechanical engineering,Other special machines,C13B  15%,"August 15, 2011",,C13B,15,C13B\d\d15\d+
+29,Mechanical engineering,Other special machines,C13B  25%,"August 15, 2011",,C13B,25,C13B\d\d25\d+
+29,Mechanical engineering,Other special machines,C13B  45%,"August 15, 2011",,C13B,45,C13B\d\d45\d+
+29,Mechanical engineering,Other special machines,C13C%,,,C13C,,C13C\d\d\d+
+29,Mechanical engineering,Other special machines,C13G%,,,C13G,,C13G\d\d\d+
+29,Mechanical engineering,Other special machines,C13H%,,,C13H,,C13H\d\d\d+
+29,Mechanical engineering,Other special machines,F41A%,,,F41A,,F41A\d\d\d+
+29,Mechanical engineering,Other special machines,F41B%,,,F41B,,F41B\d\d\d+
+29,Mechanical engineering,Other special machines,F41C%,,,F41C,,F41C\d\d\d+
+29,Mechanical engineering,Other special machines,F41F%,,,F41F,,F41F\d\d\d+
+29,Mechanical engineering,Other special machines,F41G%,,,F41G,,F41G\d\d\d+
+29,Mechanical engineering,Other special machines,F41H%,,,F41H,,F41H\d\d\d+
+29,Mechanical engineering,Other special machines,F41J%,,,F41J,,F41J\d\d\d+
+29,Mechanical engineering,Other special machines,F42B%,,,F42B,,F42B\d\d\d+
+29,Mechanical engineering,Other special machines,F42C%,,,F42C,,F42C\d\d\d+
+29,Mechanical engineering,Other special machines,F42D%,,,F42D,,F42D\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F22B%,,,F22B,,F22B\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F22D%,,,F22D,,F22D\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F22G%,,,F22G,,F22G\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F23B%,,,F23B,,F23B\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F23C%,,,F23C,,F23C\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F23D%,,,F23D,,F23D\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F23H%,,,F23H,,F23H\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F23K%,,,F23K,,F23K\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F23L%,,,F23L,,F23L\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F23M%,,,F23M,,F23M\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F23N%,,,F23N,,F23N\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F23Q%,,,F23Q,,F23Q\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F24B%,,,F24B,,F24B\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F24C%,,,F24C,,F24C\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F24D%,,,F24D,,F24D\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F24F%,,,F24F,,F24F\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F24H%,,,F24H,,F24H\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F24J%,,,F24J,,F24J\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F24S%,"January 1, 2018",Newly added,F24S,,F24S\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F24T%,"January 1, 2018",Newly added,F24T,,F24T\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F24V%,"January 1, 2018",Newly added,F24V,,F24V\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F25B%,,,F25B,,F25B\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F25C%,,,F25C,,F25C\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F27B%,,,F27B,,F27B\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F27D%,,,F27D,,F27D\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F28B%,,,F28B,,F28B\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F28C%,,,F28C,,F28C\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F28D%,,,F28D,,F28D\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F28F%,,,F28F,,F28F\d\d\d+
+30,Mechanical engineering,Thermal processes and apparatus,F28G%,,,F28G,,F28G\d\d\d+
+31,Mechanical engineering,Mechanical elements,F15B%,,,F15B,,F15B\d\d\d+
+31,Mechanical engineering,Mechanical elements,F15C%,,,F15C,,F15C\d\d\d+
+31,Mechanical engineering,Mechanical elements,F15D%,,,F15D,,F15D\d\d\d+
+31,Mechanical engineering,Mechanical elements,F16B%,,,F16B,,F16B\d\d\d+
+31,Mechanical engineering,Mechanical elements,F16C%,,,F16C,,F16C\d\d\d+
+31,Mechanical engineering,Mechanical elements,F16D%,,,F16D,,F16D\d\d\d+
+31,Mechanical engineering,Mechanical elements,F16F%,,,F16F,,F16F\d\d\d+
+31,Mechanical engineering,Mechanical elements,F16G%,,,F16G,,F16G\d\d\d+
+31,Mechanical engineering,Mechanical elements,F16H%,,,F16H,,F16H\d\d\d+
+31,Mechanical engineering,Mechanical elements,F16J%,,,F16J,,F16J\d\d\d+
+31,Mechanical engineering,Mechanical elements,F16K%,,,F16K,,F16K\d\d\d+
+31,Mechanical engineering,Mechanical elements,F16L%,,,F16L,,F16L\d\d\d+
+31,Mechanical engineering,Mechanical elements,F16M%,,,F16M,,F16M\d\d\d+
+31,Mechanical engineering,Mechanical elements,F16N%,,,F16N,,F16N\d\d\d+
+31,Mechanical engineering,Mechanical elements,F16P%,,,F16P,,F16P\d\d\d+
+31,Mechanical engineering,Mechanical elements,F16S%,,,F16S,,F16S\d\d\d+
+31,Mechanical engineering,Mechanical elements,F16T%,,,F16T,,F16T\d\d\d+
+31,Mechanical engineering,Mechanical elements,F17B%,,,F17B,,F17B\d\d\d+
+31,Mechanical engineering,Mechanical elements,F17C%,,,F17C,,F17C\d\d\d+
+31,Mechanical engineering,Mechanical elements,F17D%,,,F17D,,F17D\d\d\d+
+31,Mechanical engineering,Mechanical elements,G05G%,,,G05G,,G05G\d\d\d+
+32,Mechanical engineering,Transport,B60B%,,,B60B,,B60B\d\d\d+
+32,Mechanical engineering,Transport,B60C%,,,B60C,,B60C\d\d\d+
+32,Mechanical engineering,Transport,B60D%,,,B60D,,B60D\d\d\d+
+32,Mechanical engineering,Transport,B60F%,,,B60F,,B60F\d\d\d+
+32,Mechanical engineering,Transport,B60G%,,,B60G,,B60G\d\d\d+
+32,Mechanical engineering,Transport,B60H%,,,B60H,,B60H\d\d\d+
+32,Mechanical engineering,Transport,B60J%,,,B60J,,B60J\d\d\d+
+32,Mechanical engineering,Transport,B60K%,,,B60K,,B60K\d\d\d+
+32,Mechanical engineering,Transport,B60L%,,,B60L,,B60L\d\d\d+
+32,Mechanical engineering,Transport,B60M%,,,B60M,,B60M\d\d\d+
+32,Mechanical engineering,Transport,B60N%,,,B60N,,B60N\d\d\d+
+32,Mechanical engineering,Transport,B60P%,,,B60P,,B60P\d\d\d+
+32,Mechanical engineering,Transport,B60Q%,,,B60Q,,B60Q\d\d\d+
+32,Mechanical engineering,Transport,B60R%,,,B60R,,B60R\d\d\d+
+32,Mechanical engineering,Transport,B60S%,,,B60S,,B60S\d\d\d+
+32,Mechanical engineering,Transport,B60T%,,,B60T,,B60T\d\d\d+
+32,Mechanical engineering,Transport,B60V%,,,B60V,,B60V\d\d\d+
+32,Mechanical engineering,Transport,B60W%,,,B60W,,B60W\d\d\d+
+32,Mechanical engineering,Transport,B61B%,,,B61B,,B61B\d\d\d+
+32,Mechanical engineering,Transport,B61C%,,,B61C,,B61C\d\d\d+
+32,Mechanical engineering,Transport,B61D%,,,B61D,,B61D\d\d\d+
+32,Mechanical engineering,Transport,B61F%,,,B61F,,B61F\d\d\d+
+32,Mechanical engineering,Transport,B61G%,,,B61G,,B61G\d\d\d+
+32,Mechanical engineering,Transport,B61H%,,,B61H,,B61H\d\d\d+
+32,Mechanical engineering,Transport,B61J%,,,B61J,,B61J\d\d\d+
+32,Mechanical engineering,Transport,B61K%,,,B61K,,B61K\d\d\d+
+32,Mechanical engineering,Transport,B61L%,,,B61L,,B61L\d\d\d+
+32,Mechanical engineering,Transport,B62B%,,,B62B,,B62B\d\d\d+
+32,Mechanical engineering,Transport,B62C%,,,B62C,,B62C\d\d\d+
+32,Mechanical engineering,Transport,B62D%,,,B62D,,B62D\d\d\d+
+32,Mechanical engineering,Transport,B62H%,,,B62H,,B62H\d\d\d+
+32,Mechanical engineering,Transport,B62J%,,,B62J,,B62J\d\d\d+
+32,Mechanical engineering,Transport,B62K%,,,B62K,,B62K\d\d\d+
+32,Mechanical engineering,Transport,B62L%,,,B62L,,B62L\d\d\d+
+32,Mechanical engineering,Transport,B62M%,,,B62M,,B62M\d\d\d+
+32,Mechanical engineering,Transport,B63B%,,,B63B,,B63B\d\d\d+
+32,Mechanical engineering,Transport,B63C%,,,B63C,,B63C\d\d\d+
+32,Mechanical engineering,Transport,B63G%,,,B63G,,B63G\d\d\d+
+32,Mechanical engineering,Transport,B63H%,,,B63H,,B63H\d\d\d+
+32,Mechanical engineering,Transport,B63J%,,,B63J,,B63J\d\d\d+
+32,Mechanical engineering,Transport,B64B%,,,B64B,,B64B\d\d\d+
+32,Mechanical engineering,Transport,B64C%,,,B64C,,B64C\d\d\d+
+32,Mechanical engineering,Transport,B64D%,,,B64D,,B64D\d\d\d+
+32,Mechanical engineering,Transport,B64F%,,,B64F,,B64F\d\d\d+
+32,Mechanical engineering,Transport,B64G%,,,B64G,,B64G\d\d\d+
+33,Other fields,"Furniture, games",A47B%,,,A47B,,A47B\d\d\d+
+33,Other fields,"Furniture, games",A47C%,,,A47C,,A47C\d\d\d+
+33,Other fields,"Furniture, games",A47D%,,,A47D,,A47D\d\d\d+
+33,Other fields,"Furniture, games",A47F%,,,A47F,,A47F\d\d\d+
+33,Other fields,"Furniture, games",A47G%,,,A47G,,A47G\d\d\d+
+33,Other fields,"Furniture, games",A47H%,,,A47H,,A47H\d\d\d+
+33,Other fields,"Furniture, games",A47J%,,,A47J,,A47J\d\d\d+
+33,Other fields,"Furniture, games",A47K%,,,A47K,,A47K\d\d\d+
+33,Other fields,"Furniture, games",A47L%,,,A47L,,A47L\d\d\d+
+33,Other fields,"Furniture, games",A63B%,,,A63B,,A63B\d\d\d+
+33,Other fields,"Furniture, games",A63C%,,,A63C,,A63C\d\d\d+
+33,Other fields,"Furniture, games",A63D%,,,A63D,,A63D\d\d\d+
+33,Other fields,"Furniture, games",A63F%,,,A63F,,A63F\d\d\d+
+33,Other fields,"Furniture, games",A63G%,,,A63G,,A63G\d\d\d+
+33,Other fields,"Furniture, games",A63H%,,,A63H,,A63H\d\d\d+
+33,Other fields,"Furniture, games",A63J%,,,A63J,,A63J\d\d\d+
+33,Other fields,"Furniture, games",A63K%,,,A63K,,A63K\d\d\d+
+34,Other fields,Other consumer goods,A24B%,,,A24B,,A24B\d\d\d+
+34,Other fields,Other consumer goods,A24C%,,,A24C,,A24C\d\d\d+
+34,Other fields,Other consumer goods,A24D%,,,A24D,,A24D\d\d\d+
+34,Other fields,Other consumer goods,A24F%,,,A24F,,A24F\d\d\d+
+34,Other fields,Other consumer goods,A41B%,,,A41B,,A41B\d\d\d+
+34,Other fields,Other consumer goods,A41C%,,,A41C,,A41C\d\d\d+
+34,Other fields,Other consumer goods,A41D%,,,A41D,,A41D\d\d\d+
+34,Other fields,Other consumer goods,A41F%,,,A41F,,A41F\d\d\d+
+34,Other fields,Other consumer goods,A41G%,,,A41G,,A41G\d\d\d+
+34,Other fields,Other consumer goods,A42B%,,,A42B,,A42B\d\d\d+
+34,Other fields,Other consumer goods,A42C%,,,A42C,,A42C\d\d\d+
+34,Other fields,Other consumer goods,A43B%,,,A43B,,A43B\d\d\d+
+34,Other fields,Other consumer goods,A43C%,,,A43C,,A43C\d\d\d+
+34,Other fields,Other consumer goods,A44B%,,,A44B,,A44B\d\d\d+
+34,Other fields,Other consumer goods,A44C%,,,A44C,,A44C\d\d\d+
+34,Other fields,Other consumer goods,A45B%,,,A45B,,A45B\d\d\d+
+34,Other fields,Other consumer goods,A45C%,,,A45C,,A45C\d\d\d+
+34,Other fields,Other consumer goods,A45D%,,,A45D,,A45D\d\d\d+
+34,Other fields,Other consumer goods,A45F%,,,A45F,,A45F\d\d\d+
+34,Other fields,Other consumer goods,A46B%,,,A46B,,A46B\d\d\d+
+34,Other fields,Other consumer goods,A62B%,,,A62B,,A62B\d\d\d+
+34,Other fields,Other consumer goods,A99Z%,,,A99Z,,A99Z\d\d\d+
+34,Other fields,Other consumer goods,B42B%,,,B42B,,B42B\d\d\d+
+34,Other fields,Other consumer goods,B42C%,,,B42C,,B42C\d\d\d+
+34,Other fields,Other consumer goods,B42D%,,,B42D,,B42D\d\d\d+
+34,Other fields,Other consumer goods,B42F%,,,B42F,,B42F\d\d\d+
+34,Other fields,Other consumer goods,B43K%,,,B43K,,B43K\d\d\d+
+34,Other fields,Other consumer goods,B43L%,,,B43L,,B43L\d\d\d+
+34,Other fields,Other consumer goods,B43M%,,,B43M,,B43M\d\d\d+
+34,Other fields,Other consumer goods,B44B%,,,B44B,,B44B\d\d\d+
+34,Other fields,Other consumer goods,B44C%,,,B44C,,B44C\d\d\d+
+34,Other fields,Other consumer goods,B44D%,,,B44D,,B44D\d\d\d+
+34,Other fields,Other consumer goods,B44F%,,,B44F,,B44F\d\d\d+
+34,Other fields,Other consumer goods,B68B%,,,B68B,,B68B\d\d\d+
+34,Other fields,Other consumer goods,B68C%,,,B68C,,B68C\d\d\d+
+34,Other fields,Other consumer goods,B68F%,,,B68F,,B68F\d\d\d+
+34,Other fields,Other consumer goods,B68G%,,,B68G,,B68G\d\d\d+
+34,Other fields,Other consumer goods,D04D%,,,D04D,,D04D\d\d\d+
+34,Other fields,Other consumer goods,D06F%,,,D06F,,D06F\d\d\d+
+34,Other fields,Other consumer goods,D06N%,,,D06N,,D06N\d\d\d+
+34,Other fields,Other consumer goods,D07B%,,,D07B,,D07B\d\d\d+
+34,Other fields,Other consumer goods,F25D%,,,F25D,,F25D\d\d\d+
+34,Other fields,Other consumer goods,G10B%,,,G10B,,G10B\d\d\d+
+34,Other fields,Other consumer goods,G10C%,,,G10C,,G10C\d\d\d+
+34,Other fields,Other consumer goods,G10D%,,,G10D,,G10D\d\d\d+
+34,Other fields,Other consumer goods,G10F%,,,G10F,,G10F\d\d\d+
+34,Other fields,Other consumer goods,G10G%,,,G10G,,G10G\d\d\d+
+34,Other fields,Other consumer goods,G10H%,,,G10H,,G10H\d\d\d+
+34,Other fields,Other consumer goods,G10K%,,,G10K,,G10K\d\d\d+
+35,Other fields,Civil engineering,E01B%,,,E01B,,E01B\d\d\d+
+35,Other fields,Civil engineering,E01C%,,,E01C,,E01C\d\d\d+
+35,Other fields,Civil engineering,E01D%,,,E01D,,E01D\d\d\d+
+35,Other fields,Civil engineering,E01F   1%,,,E01F,1,E01F\d\d01\d+
+35,Other fields,Civil engineering,E01F   3%,,,E01F,3,E01F\d\d03\d+
+35,Other fields,Civil engineering,E01F   5%,,,E01F,5,E01F\d\d05\d+
+35,Other fields,Civil engineering,E01F   7%,,,E01F,7,E01F\d\d07\d+
+35,Other fields,Civil engineering,E01F   9%,,,E01F,9,E01F\d\d09\d+
+35,Other fields,Civil engineering,E01F  11%,,,E01F,11,E01F\d\d11\d+
+35,Other fields,Civil engineering,E01F  13%,,,E01F,13,E01F\d\d13\d+
+35,Other fields,Civil engineering,E01F  15%,,,E01F,15,E01F\d\d15\d+
+35,Other fields,Civil engineering,E01H%,,,E01H,,E01H\d\d\d+
+35,Other fields,Civil engineering,E02B%,,,E02B,,E02B\d\d\d+
+35,Other fields,Civil engineering,E02C%,,,E02C,,E02C\d\d\d+
+35,Other fields,Civil engineering,E02D%,,,E02D,,E02D\d\d\d+
+35,Other fields,Civil engineering,E02F%,,,E02F,,E02F\d\d\d+
+35,Other fields,Civil engineering,E03B%,,,E03B,,E03B\d\d\d+
+35,Other fields,Civil engineering,E03C%,,,E03C,,E03C\d\d\d+
+35,Other fields,Civil engineering,E03D%,,,E03D,,E03D\d\d\d+
+35,Other fields,Civil engineering,E03F%,,,E03F,,E03F\d\d\d+
+35,Other fields,Civil engineering,E04B%,,,E04B,,E04B\d\d\d+
+35,Other fields,Civil engineering,E04C%,,,E04C,,E04C\d\d\d+
+35,Other fields,Civil engineering,E04D%,,,E04D,,E04D\d\d\d+
+35,Other fields,Civil engineering,E04F%,,,E04F,,E04F\d\d\d+
+35,Other fields,Civil engineering,E04G%,,,E04G,,E04G\d\d\d+
+35,Other fields,Civil engineering,E04H%,,,E04H,,E04H\d\d\d+
+35,Other fields,Civil engineering,E05B%,,,E05B,,E05B\d\d\d+
+35,Other fields,Civil engineering,E05C%,,,E05C,,E05C\d\d\d+
+35,Other fields,Civil engineering,E05D%,,,E05D,,E05D\d\d\d+
+35,Other fields,Civil engineering,E05F%,,,E05F,,E05F\d\d\d+
+35,Other fields,Civil engineering,E05G%,,,E05G,,E05G\d\d\d+
+35,Other fields,Civil engineering,E06B%,,,E06B,,E06B\d\d\d+
+35,Other fields,Civil engineering,E06C%,,,E06C,,E06C\d\d\d+
+35,Other fields,Civil engineering,E21B%,,,E21B,,E21B\d\d\d+
+35,Other fields,Civil engineering,E21C%,,,E21C,,E21C\d\d\d+
+35,Other fields,Civil engineering,E21D%,,,E21D,,E21D\d\d\d+
+35,Other fields,Civil engineering,E21F%,,,E21F,,E21F\d\d\d+
+35,Other fields,Civil engineering,E99Z%,,,E99Z,,E99Z\d\d\d+
